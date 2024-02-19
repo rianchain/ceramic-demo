@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@self.id/react": "^0.4.0",
+    "@self.id/web": "^0.5.0",
+    "ethers": "^5.7.2",
+    "key-did-provider-ed25519": "^4.0.2",
+    "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.0"
+    "web3modal": "^1.9.12"
   },
   "devDependencies": {
     "eslint": "^8",
